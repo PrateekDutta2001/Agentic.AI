@@ -56,10 +56,6 @@ The guide is structured to take you from basics to advanced topics:
 6. Understand **Challenges** before deployment
 7. Access **Resources** for continued learning
 
-## 🤝 Contributing
-
-This is an open educational resource. Feel free to fork, modify, and share!
-
 ## 📄 License
 
 MIT License - Free to use for educational and commercial purposes.
@@ -80,7 +76,7 @@ Potential additions:
 
 Built for the AI community to promote understanding and adoption of Agentic AI systems.
 
-## 👨‍💻 Designer & Developer
+## 👨‍💻 Developed By
 
 **Prateek Dutta**
 
