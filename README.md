@@ -30,20 +30,6 @@ A comprehensive, interactive web application providing an end-to-end guide to Ag
 - **Navigation**: Fixed navbar with smooth scrolling
 - **Progress Bar**: Visual scroll progress indicator
 
-## 📱 Responsive Breakpoints
-
-- Desktop: 1200px+
-- Tablet: 768px - 1200px
-- Mobile: < 768px
-- Small Mobile: < 480px
-
-## 🛠️ Technologies
-
-- **HTML5**: Semantic structure
-- **CSS3**: Modern features including Grid, Flexbox, Animations
-- **JavaScript (ES6+)**: Interactivity and dynamic behavior
-- **No Frameworks**: Pure vanilla implementation
-
 ## 📖 Learning Path
 
 The guide is structured to take you from basics to advanced topics:
