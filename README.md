@@ -21,22 +21,6 @@ A comprehensive, interactive web application providing an end-to-end guide to Ag
 6. **Challenges** - Safety, alignment, performance, and best practices
 7. **Resources** - Curated documentation, courses, research papers, tools, and community links
 
-## 🚀 Getting Started
-
-Simply open `index.html` in your web browser. No build process required!
-
-```bash
-# Option 1: Open directly
-open index.html
-
-# Option 2: Use a local server (recommended)
-python -m http.server 8000
-# Then visit http://localhost:8000
-
-# Option 3: Use Node.js http-server
-npx http-server -p 8000
-```
-
 ## 🎨 Design Features
 
 - **Color Scheme**: Modern dark theme with gradient accents
